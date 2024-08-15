@@ -69,15 +69,14 @@ The model's performance is evaluated using:
 - **Precision & Recall**
 
 ## 📈 Results
-- **Accuracy**: The model achieved an accuracy of **[insert accuracy here]** on the test set.
+- **Accuracy**: The model achieved an accuracy of **[81%]** on the test set.
 - **Confusion Matrix**: The matrix below illustrates the model's ability to distinguish between survivors and non-survivors.
-
-![Confusion Matrix](https://upload.wikimedia.org/wikipedia/commons/2/2b/Confusion_matrix_diagram.png)
+           [[151  23]
+            [ 27  67]]
+ 
 
 ## 🏁 Conclusion
-The Logistic Regression model successfully predicts survival on the Titanic. Key features like **Passenger Class** and **Sex** are significant predictors.
+The Logistic Regression model successfully predicts survival on the Titanic. Key features like 
 
-## 📜 License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 
