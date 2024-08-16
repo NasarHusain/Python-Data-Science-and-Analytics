@@ -42,7 +42,7 @@ Ensure **Jupyter Notebook** is installed to execute the `.ipynb` file.
 ## 🚀 Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/titanic-logistic-regression.git
+   https://github.com/NasarHusain/Python-Data-Science-and-Analytics.git
    ```
 2. **Navigate to the project directory**:
    ```bash
